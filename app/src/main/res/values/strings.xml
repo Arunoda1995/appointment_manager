@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Appointment Manager</string>
+    <string name="editHelper">Please Enter the number of the Appointment You \n\t\t\t\t\t wish to edit and press EDIT button</string>
+    <string name="deleteHelper">Please Enter the number of the Appointment You \n\t\t\t\t\t wish to delete and press DELETE button</string>
+    <string name="moveHelper">Please Enter the number of the Appointment You \n\t\t\t\t\t wish to move and press MOVE button</string>
+    <string name="updateHelper">\t\t\t\t Enter the details that you want \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t to Update</string>
+    <string name="searchHelper">Please Enter a KeyWord and press SEARCH button \n\t\t\t\t\t to search Particular Appointment</string>
+
+</resources>
